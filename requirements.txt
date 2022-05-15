@@ -1,5 +1,2 @@
-json
-shutil
-time
 nightfall
-boto3
+requests
